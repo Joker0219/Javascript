@@ -1,0 +1,3 @@
+[submodule "my-demo"]
+	path = my-demo
+	url = ./React/demo03/my-demo
