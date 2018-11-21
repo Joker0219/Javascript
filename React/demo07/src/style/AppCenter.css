@@ -1,0 +1,16 @@
+.AppCenter{
+    text-align: center;
+    width:1000px; height:500px;
+    float: left;
+  }
+  .AppSider{
+    width:300px; height:500px;
+    background-color: dimgray;
+    color: aliceblue;
+    float: left;
+  }
+  .AppContent{
+    width:700px; height:500px;
+    background-color: beige;
+    float: left;
+  }
